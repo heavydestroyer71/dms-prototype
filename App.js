@@ -1,0 +1,1 @@
+import React from 'react'; function App() { return <h1>DMS Prototype</h1>; } export default App;
